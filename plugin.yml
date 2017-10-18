@@ -1,0 +1,8 @@
+name: 'RedstoneUtils'
+main: Firelight.RedstoneUtils.RedstoneUtils
+description: 'General utility machines to do redstone stuff'
+version: 0.1.0
+load: POSTWORLD
+depend: [BlockyMachines]
+author: [VolcanoINC,ForPizzaSake]
+commands:
